@@ -1,3 +1,4 @@
-// add whatever parameters you deem necessary
+"use strict";
+/* */
 function separatePositive() {
 }
